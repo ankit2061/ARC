@@ -1,1 +1,1 @@
-print("yo yo")
+print("chal nikal")
